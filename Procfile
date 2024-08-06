@@ -1,1 +1,1 @@
-web: gunicorn TechnicalTest.wsgi
+web: gunicorn TechnicalTest.wsgi:application
